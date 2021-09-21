@@ -1,0 +1,37 @@
+@media screen and (max-width:700px){
+    .filme-principal{
+        height: 60vh;
+    }
+
+    .carrocel-filmes{
+        height: 38vh;
+    }
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botoes{
+        display: flex;
+        flex-direction: column;
+        margin-top: 5px; 
+        width: 200px;
+    }
+    .botoes a{
+        margin-bottom: 3px;
+    }
+    .titulo{
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+    .filme-principal{
+        background-image: linear-gradient(rgba(0, 0, 0,.50), rgba(0, 0, 0, .50)), url(../img/capa4.png);
+        background-position: center;
+    }
+}
