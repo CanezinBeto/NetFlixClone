@@ -1,3 +1,3 @@
 # Netflixclone
 
-Reciando a interface do netflix com filmes sobre Cristo.
+:rocket: README In Progress :rocket:
